@@ -1,9 +1,9 @@
-name:-k.pavani
+name:-v.chandukumar
 comapany:-codetech it solutions
-id:-CTO8DS3471
-durarion:-JULY 1ST TO AUGUST 1ST 2024
-domain:-PYTHON
-mentor:-9391261627
+id:-CT4pp6036
+durarion:-AUGUST 1ST to september 1st
+domain:-PYTHON programming
+mentor:-muzammil ahmed
 OVER VIEW OF PROJECT
     PYTHON PROGRAMMING TO PERFORM STUDENT GRADES.
     OBJECTIVE:-
